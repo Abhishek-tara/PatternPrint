@@ -1,0 +1,15 @@
+D:\279-Brideglabz\Patterns\Patterns\Patterns\bin\Debug\net6.0\Patterns.exe
+D:\279-Brideglabz\Patterns\Patterns\Patterns\bin\Debug\net6.0\Patterns.deps.json
+D:\279-Brideglabz\Patterns\Patterns\Patterns\bin\Debug\net6.0\Patterns.runtimeconfig.json
+D:\279-Brideglabz\Patterns\Patterns\Patterns\bin\Debug\net6.0\Patterns.dll
+D:\279-Brideglabz\Patterns\Patterns\Patterns\bin\Debug\net6.0\Patterns.pdb
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\Patterns.csproj.AssemblyReference.cache
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\Patterns.AssemblyInfoInputs.cache
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\Patterns.AssemblyInfo.cs
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\Patterns.csproj.CoreCompileInputs.cache
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\Patterns.dll
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\refint\Patterns.dll
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\Patterns.pdb
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\Patterns.genruntimeconfig.cache
+D:\279-Brideglabz\Patterns\Patterns\Patterns\obj\Debug\net6.0\ref\Patterns.dll
